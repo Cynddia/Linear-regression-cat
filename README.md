@@ -1,7 +1,7 @@
 # Linear-regression-cat
 
 Linear Reg from Scratch :
-	Slope 1.0346483813814806 	Intercept: -0.2230495969208448
+	Slope 1.0346483813814806 	Intercept: -0.2230495969208448 
 Gradient Descent Method :
 	Slope 1.0338779212115528  	Intercept: -0.17165467183416142
 SKLearn Method :
